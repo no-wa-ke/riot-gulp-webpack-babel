@@ -24,10 +24,10 @@ This seed repo is a starter kit for front-end developer that needs an environmen
 
 ```bash
 # clone the repo
-git clone https://github.com/gairal/gulp-webpack-es2015-stack.git
+git clone https://github.com/no-wa-ke/riot-gulp-webpack-babel.git
 
 # change directory to the repo
-cd gulp-webpack-es2015-stack
+cd riot-gulp-webpack-babel
 
 # install the repo with npm or yarn
 npm install
