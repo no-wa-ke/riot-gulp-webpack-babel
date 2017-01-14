@@ -3,6 +3,7 @@
 ---
 
 ### TODO
+- [ ] Middleware option for anybody who wants to mess with meta-tags(express, or php will do the job)
 - [ ] Unit Testing with Jasmine
 
 ---
@@ -12,6 +13,7 @@
 This seed repo is a starter kit for front-end developer that needs an environment allowing them to speed up development while ensuring good practice and overall quality.
 
 * Best practice for HTML5, CSS and JavaScript organization
+* Using Riot.js for component based development
 * Code validation (HTML, JS, CSS)
 * HTML Templating
 * CSS Preprocessing
@@ -33,7 +35,8 @@ cd riot-gulp-webpack-babel
 npm install
 OR
 yarn install
-
+# You might want to run node-sass depending on your env
+npm rebuild node-sass
 # start the server
 gulp
 ```
